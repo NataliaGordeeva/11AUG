@@ -13,15 +13,15 @@
 
 * **git commit -am "+comment"** сохранение
 
-* git diff
+* **git diff** просмотр изменений (можно между какими версиями)
 
-* git log
+* **git log** просмотр истории сохранений
 
 * **git status** просмотр текущего состояния
 
-* git reflog
+* **git reflog** вывод ссылок на все коммиты
 
-* git checkout
+* **git checkout** перемещение между ветками
 
 * **git checkout masters** переключение в master
 
